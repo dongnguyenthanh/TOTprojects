@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOTAPI", "TOTAPI.csproj", "{A931AA04-2FB0-4369-831D-056ADA513DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A931AA04-2FB0-4369-831D-056ADA513DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A931AA04-2FB0-4369-831D-056ADA513DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A931AA04-2FB0-4369-831D-056ADA513DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A931AA04-2FB0-4369-831D-056ADA513DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFAC7784-5F13-4BFA-8AFA-E110505EFC50}
+	EndGlobalSection
+EndGlobal
